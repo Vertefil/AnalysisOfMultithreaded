@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\bin\Debug\net7.0-windows\parallProg3Forms.exe
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\bin\Debug\net7.0-windows\parallProg3Forms.deps.json
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\bin\Debug\net7.0-windows\parallProg3Forms.runtimeconfig.json
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\bin\Debug\net7.0-windows\parallProg3Forms.dll
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\bin\Debug\net7.0-windows\parallProg3Forms.pdb
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.Form1.resources
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.AssemblyInfo.cs
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.dll
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\refint\parallProg3Forms.dll
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.pdb
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\parallProg3Forms.genruntimeconfig.cache
+C:\Users\user\source\repos\parallProg3Forms\parallProg3Forms\obj\Debug\net7.0-windows\ref\parallProg3Forms.dll
